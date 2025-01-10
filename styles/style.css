@@ -41,7 +41,11 @@ p{
     color: white;
     padding: 10px;
     border-radius: 8px;
-    width:30%
+    width:30%;
+    font-weight: 400;
+    font-size: 18px;
+    
+    
     
     
 }
@@ -55,3 +59,87 @@ p{
     color: white;
 }
 
+/* style of main part */
+
+.vision{
+    margin:50px;
+}
+section h2{
+    padding-left: 350px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.explanation {
+    padding-left: 350px;
+    padding-right: 350px;
+    color: rgba(14, 14, 14, 0.7);
+}
+
+
+
+.boxes{
+    display: flex;
+    margin-left: 150px;
+    justify-content: center;
+}
+
+.box1{
+background-color:rgb(213, 225, 245);
+width:20%;
+margin-right: 25px;
+border-radius: 10px;
+padding: 40px;
+
+}
+
+
+.box1 button{
+    color: white;
+    background-color:rgb(84, 144, 245);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.box2{
+    background-color:rgb(198, 228, 214);
+    width: 20%;
+    margin-right: 25px;
+    border-radius: 20px;
+    padding: 40px;
+
+    
+    }
+
+.box2 button{
+        color: white;
+        background-color:rgb(9, 161, 92);
+        border-radius: 10px;
+        text-align: center;
+        padding: 20px;
+
+
+    }
+    
+
+.box3{
+    background-color:rgb(247, 235, 207);
+    width: 20%;
+    margin-right: 25px;
+    border-radius: 20px;
+    padding: 40px;
+    
+    
+
+}
+
+.box3 button{
+    color: white;
+    background-color:rgb(255, 194, 57);
+    border-radius: 10px;
+        text-align: center;
+        padding: 20px;
+
+
+}
