@@ -509,6 +509,8 @@ font-size:20px;
     height:57px;
     background-color: rgb(98, 162, 146);
     border-radius: 5px;
+    justify-content: center;
+    margin-left: 0;
     
     
     
@@ -547,6 +549,7 @@ font-size:20px;
 .footer{
     text-align: center;
     height: 150px;
+    
    
 
 }
@@ -555,7 +558,8 @@ font-size:20px;
 .Bangladesh p{
     font-size: 30px;
     font-weight: bold;
-    color: rgba(14, 14, 14, 0.7);
+    color:rgb(106, 106, 106);
+    margin-left: 300px;
 }
 
 .image{
@@ -568,6 +572,7 @@ font-size:20px;
 
 .facebook{
     margin-right: 20px;
+    margin-left: 140px;
 }
 
 .instagram{
